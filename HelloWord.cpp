@@ -1,5 +1,5 @@
 # include <iostream>
 
 int main() {
-    std::cout << "Fightoooooooooooooon!" << std::endl;
+    std::cout << "Hi!" << std::endl;
 }
